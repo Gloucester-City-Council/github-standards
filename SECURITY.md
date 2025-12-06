@@ -10,7 +10,7 @@ It is not used for storing personal data, credentials, or configuration for inte
 
 If you believe you have found a security issue in this repository or any site published from it, please report it to:
 
-**Email:** digital@yourcouncil.gov.uk  
+**Email:** digitaldev@gloucester.gov.uk  
 **Subject:** GitHub security report – [repository name]
 
 Please include:
